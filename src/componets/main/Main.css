@@ -1,0 +1,59 @@
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.gret_box {
+    width: 287px;
+    height: 451px;
+    border-radius: 10px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 7.8px 0px #00000026;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+.telfon {
+    margin-left: 35px;
+    /* margin-top: 20px; */
+    margin-bottom: 20px;
+}
+
+.telvezor {
+    margin-bottom: 20px;
+}
+
+.btn_tecno {
+    width: 35px;
+    height: 35px;
+    cursor: pointer;
+    margin-top: 30px;
+    margin-left: 200px;
+    background-color: green;
+    border: none;
+    transition: .5s;
+    color: white;
+}
+.btn_tecno:hover{
+    background-color: transparent;
+    box-shadow: 0px 0px 5px 5px green;
+    transition: .5s;
+    color: green;
+}
+
+.TbShoppingCart {
+    font-size: 20px;
+    /* color: white; */
+}
+
+.text_one {
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 20.72px;
+    text-align: left;
+    margin-bottom: 20px;
+}
+.lorem{
+
+}
